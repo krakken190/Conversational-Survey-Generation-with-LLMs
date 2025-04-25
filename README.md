@@ -1,4 +1,10 @@
-Link for project being used:- https://drive.google.com/file/d/1iKiQO2lZFZbh07Ktv_wPno256bi2dUMk/view?usp=sharing
+DEMO OF ABOVE PROJECT:
+
+https://github.com/user-attachments/assets/7c574334-7afb-4bbf-a063-c6dcd3a0f38e
+
+
+NOTE: IF YOU TRY THIS LOCALLY PLEASE USE
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))  # FOR LOCAL TESTING
 
 # *Conversational-Survey-Interview-Generation-with-LLMs*
 
